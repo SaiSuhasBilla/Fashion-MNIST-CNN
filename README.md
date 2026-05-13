@@ -2,7 +2,7 @@
 
 # Fashion-MNIST Classification using Optimized CNNs
 
-This project implements a state-of-the-art Deep Learning model for the classification of fashion article images, based on research from the **Indian Institute of Technology Patna**.
+This project implements a state-of-the-art Deep Learning model for the classification of fashion article images.
 
 ---
 
